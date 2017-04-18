@@ -35,7 +35,7 @@ Any information that we collect is subject to the privacy policy in effect at th
 <p>
 <h2>Questions?</h2>
 <p>
-Please contact us at gamesupportwh88@gmail.com if you have any questions about our Privacy Policy.</p>
+Please contact us if you have any questions about our Privacy Policy.</p>
 <p class="copy"> </p>
 <p class="copy"> </p>
 
@@ -46,7 +46,6 @@ Please contact us at gamesupportwh88@gmail.com if you have any questions about o
  -->
 </div>
 <div class="footer copyright">
-<a href="mailto:gamesupportwh88@gmail.com">Suggestions/Help</a>
 </div>
 </div>
 <div style="display:none;">
